@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(100, 140, 174);
+    margin: 40px;
+    border: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tarjeta {
+ background-color: white;
+ border: 5px solid black;   
+ border-radius: 50px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+.nombre {
+    font-size: 40px;
+}
+.foto-perfil {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+    border-radius: 20px;
+}
+.separador {
+    width: 900px;
+    height: auto;
+    background-color: ;
+    display: inline-block;
+}
+.contenido {
+    font-size: 30px;
+}
